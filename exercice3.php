@@ -21,7 +21,7 @@ function checkIfPalindrome($x) {
         return false;
     }
 }
-if (checkIfPalindrome("radar")) {
+if (checkIfPalindrome("madam")) {
     echo "\n it is a palindrome.";
 } else {
     echo "\n not a palindrome.";
